@@ -13,7 +13,7 @@ He is currently a 1st year Ph.D. student at [Gaoling School of Artificial Intell
 Education
 ======
 * *09.2023-present* Ph.D. candidate, Gaoling School of Artificial Intelligence, Renmin University of China.
-* *09.2019-06.2023* Bachelor, School of Computer Science and Technology, Huazhong University of Science and Technology.
+* *09.2019-06.2023* B.E., School of Computer Science and Technology, Huazhong University of Science and Technology.
 
 Publications
 ======  
