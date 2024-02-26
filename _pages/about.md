@@ -25,6 +25,7 @@ Teaching
 
 Honor
 ======
+* CET-6 Score: 580/710, 2023
 * Merit Student Scholarship in Shaanxi Province, 2023
 * Lenovo Scholarship, 2021
 * National Encouragement scholarship in XIDIAN University, 2020
