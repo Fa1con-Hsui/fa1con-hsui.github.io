@@ -12,8 +12,8 @@ He is currently a 1st year M.S. student at [Gaoling School of Artificial Intelli
 
 Education
 ======
-* *09.2023-present* M.S. student, Gaoling School of Artificial Intelligence, Renmin University of China.
-* *08.2019-06.2023* B.E., School of Computer Science and Technology, XIDIAN University.
+* *09.2023-present* M.S. student, Artificial Intelligence, Gaoling School of Artificial Intelligence, Renmin University of China.
+* *08.2019-06.2023* B.E., Computer Science, School of Computer Science and Technology, XIDIAN University.
 
 Publications
 ======  
@@ -25,7 +25,8 @@ Teaching
 
 Honor
 ======
+* The Second Award of Graduate Study Scholarship (Master Student) in Gaoling School of Artificial Intelligence, Renmin University of China, 2023
 * CET-6 Score: 580/710, 2023
-* Merit Student in Shaanxi Province, 2023
-* Lenovo Scholarship, 2021
-* National Scholarship in XIDIAN University, 2020
+* Merit Student, Shaanxi Province, 2023
+* Lenovo Scholarship, XIDIAN University, 2021
+* National Scholarship, XIDIAN University, 2020
