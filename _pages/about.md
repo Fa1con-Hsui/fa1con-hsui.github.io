@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yi Xu"
+title: "Yi Xu (徐 熠)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
