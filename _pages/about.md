@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-He is currently a 2st year M.S. student at [Gaoling School of Artificial Intelligence, Renmin University of China](http://ai.ruc.edu.cn/english/index.htm). He is working in [IIR lab](https://ruc-iir-lab.github.io/). His supervisors are AP. [Xiao Zhang](https://scholar.google.com/citations?user=5FZ6wbAAAAAJ&hl=zh-CN&oi=ao) and Prof. [Jun Xu](https://scholar.google.com/citations?user=su14mcEAAAAJ). His major research interests are about Reinforcement Learning, Imitation Learning, Recommender System via Language Models, Post Search Recommendation in Industrial Systems etc. 
+He is currently a 2nd year M.S. student at [Gaoling School of Artificial Intelligence, Renmin University of China](http://ai.ruc.edu.cn/english/index.htm). He is working in [IIR lab](https://ruc-iir-lab.github.io/). His supervisors are AP. [Xiao Zhang](https://scholar.google.com/citations?user=5FZ6wbAAAAAJ&hl=zh-CN&oi=ao) and Prof. [Jun Xu](https://scholar.google.com/citations?user=su14mcEAAAAJ). His major research interests are about Reinforcement Learning, Imitation Learning, Recommender System via Language Models, Post Search Recommendation in Industrial Systems etc. 
 
 Education
 ======
