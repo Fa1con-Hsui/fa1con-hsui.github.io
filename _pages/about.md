@@ -16,8 +16,16 @@ Education
 * *08.2019-06.2023* B.E., Computer Science, School of Computer Science and Technology, XIDIAN University.
 
 Publications
-======  
-* 5 papers are under review, including one about 2 about LLM4Rec, 1 about personalized search, 1 about Multi-armed Bandits (MAB), and one about Kernel Ridge Regression (KRR).
+====== 
+* (**First author**) "Enhancing Sequential Recommendations through Multi-Perspective Reflections and Iteration." **Submitted to RecSys'25** [arxiv](https://arxiv.org/abs/2409.06377)
+  + LLM4Rec, Reflection, reinforcement learning
+* (**First author**) "Decoding Recommendation Behaviors of In-Context Learning LLMs Through Gradient Descent" **Submitted to RecSys'25** [arxiv](https://arxiv.org/abs/2504.04386)
+  + LLM4Rec, In-context Learning, theoretical analysis
+* (**First author**) "IBCB: Efficient Inverse Batched Contextual Bandit for Behavioral Evolution History" **Submitted to TPAMI** [arxiv](https://arxiv.org/abs/2403.16075)
+  + Batched contextual bandits, imitation Learning for recommendation 
+* (**Second author**) "MAPS: Motivation-Aware Personalized Search via LLM-Driven Consultation Alignment" **ACL'25** [reviewing (444)](https://openreview.net/forum?id=lDrggbrkOs#discussion)
+  + LLM-driven personalized search engine
+* One more paper about Kernel Ridge Regression (KRR).
 * Google Scholar: [Yi Xu at RUC](https://scholar.google.com.hk/citations?hl=zh-CN&user=90I2hUoAAAAJ). 
 
 Teaching
