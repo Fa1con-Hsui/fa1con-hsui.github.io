@@ -31,6 +31,8 @@ Publications
 * (**First author**) "Decoding Recommendation Behaviors of In-Context Learning LLMs Through Gradient Descent" **Submitted to SIGIR'26** [arxiv](https://arxiv.org/abs/2504.04386)
   + LLM4Rec, In-context Learning, theoretical analysis
   + LLM-driven personalized search engine
+* (Second author) "Similarity = Value? Consultation Value Assessment and Alignment for Personalized Search" **EMNLP'25 long main (Oral)** [arxiv](https://arxiv.org/abs/2506.14437)
+  + Personalized Search, LLM-based Alignment, Posterier Action Judgement
 
 * One more paper about Kernel Ridge Regression (KRR).
 * Google Scholar: [Yi Xu at RUC](https://scholar.google.com.hk/citations?hl=zh-CN&user=90I2hUoAAAAJ). 
