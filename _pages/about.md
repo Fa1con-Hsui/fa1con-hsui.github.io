@@ -10,23 +10,28 @@ redirect_from:
 
 He is currently a 2nd year M.S. student at [Gaoling School of Artificial Intelligence, Renmin University of China](http://ai.ruc.edu.cn/english/index.htm). He is working in [IIR lab](https://ruc-iir-lab.github.io/). His supervisors are AP. [Xiao Zhang](https://scholar.google.com/citations?user=5FZ6wbAAAAAJ&hl=zh-CN&oi=ao) and Prof. [Jun Xu](https://scholar.google.com/citations?user=su14mcEAAAAJ). His major research interests are about Reinforcement Learning, Imitation Learning, Recommender System via Language Models, Post Search Recommendation in Industrial Systems etc. 
 
+Industry
+======
+* *03.2025-present* RS Algo Engineer (Intern.), TikTok, Bytedance
+* *02.2024-03.2025* Algo Researcher (Intern.), DI, Lenovo Inc.
+
 Education
 ======
-* *09.2023-present* M.S. student, Artificial Intelligence, Gaoling School of Artificial Intelligence, Renmin University of China.
+* *09.2023-06.2026* M.S. student, Artificial Intelligence, Gaoling School of Artificial Intelligence, Renmin University of China.
 * *08.2019-06.2023* B.E., Computer Science, School of Computer Science and Technology, XIDIAN University.
 
 Publications
 ====== 
-* (**Co-First author**) "MAPS: Motivation-Aware Personalized Search via LLM-Driven Consultation Alignment" **ACL'25 long main** [reviewing (444)](https://openreview.net/forum?id=lDrggbrkOs#discussion)
-  + Personalized Search, LLM-based Alignment
-* (**First author**) "Enhancing Sequential Recommendations through Multi-Perspective Reflections and Iteration." **Submitted to RecSys'25** [arxiv](https://arxiv.org/abs/2409.06377)
-  + LLM4Rec, Reflection, reinforcement learning
-* (**First author**) "Decoding Recommendation Behaviors of In-Context Learning LLMs Through Gradient Descent" **Submitted to RecSys'25** [arxiv](https://arxiv.org/abs/2504.04386)
-  + LLM4Rec, In-context Learning, theoretical analysis
-* (**First author**) "IBCB: Efficient Inverse Batched Contextual Bandit for Behavioral Evolution History" **Submitted to TPAMI** [arxiv](https://arxiv.org/abs/2403.16075)
+* (**First author**) "IBCB: Efficient Inverse Batched Contextual Bandit for Behavioral Evolution History" **Accepted by TPAMI** [arxiv](https://arxiv.org/abs/2403.16075)
   + Batched contextual bandits, imitation Learning for recommendation 
-
+* (**Co-First author**) "MAPS: Motivation-Aware Personalized Search via LLM-Driven Consultation Alignment" **ACL'25 long main (Oral)** [arxiv](https://openreview.net/forum?id=lDrggbrkOs#discussion)
+  + Personalized Search, LLM-based Alignment
+* (**First author**) "Enhancing Sequential Recommendations through Multi-Perspective Reflections and Iteration." **RecSys'25 Spotlight Oral** [arxiv](https://arxiv.org/abs/2409.06377)
+  + LLM4Rec, Reflection, reinforcement learning
+* (**First author**) "Decoding Recommendation Behaviors of In-Context Learning LLMs Through Gradient Descent" **Submitted to SIGIR'26** [arxiv](https://arxiv.org/abs/2504.04386)
+  + LLM4Rec, In-context Learning, theoretical analysis
   + LLM-driven personalized search engine
+
 * One more paper about Kernel Ridge Regression (KRR).
 * Google Scholar: [Yi Xu at RUC](https://scholar.google.com.hk/citations?hl=zh-CN&user=90I2hUoAAAAJ). 
 
